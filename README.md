@@ -1,1 +1,1 @@
-This explains the use of "Standardized Difference" or Cohen (1996) formula 10.4 and how to 1. Select subtests with less adverse impact 2. adjust scores to reduce the adverse impact on thresholds (e.g. for identification or intervention program/gifted programs entrance).
+This explains the use of "Standardized Difference" or Cohen (1996) formula 10.4 (Cohen's Gamma) and how to 1. Select subtests with less adverse impact 2. adjust scores to reduce the adverse impact on thresholds (e.g. for identification or intervention program/gifted programs entrance).

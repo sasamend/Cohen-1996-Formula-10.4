@@ -1,0 +1,110 @@
+% To read as PDF, go to overleaf.com and create a free account. Copy and Paste this latex code into the "code editor" and compile
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Adverse Impact in Cognitive Tests for Dyslexics and Other Special Populations}
+\author{sinclair.7 }
+\date{May 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+
+\section*{Adverse Impact in Cognitive Tests for Dyslexics and Other Special Populations}
+
+In terms of adverse impact on disabled populations known to have no effect on intelligence (i.e., Dyslexia/SLD, Dyscalculia/SLD, ADHD, and high-functioning Autism), cognitive subtests that are known to have a medium to large \textit{Standard Difference} must be evaluated with caution. According to Pearson's WAIS-IV Technical Manual:
+
+\begin{quote}
+\textit{The Standard Difference is the difference of the two test means divided by the square root of the pooled variance, computed using Cohen (1996) Formula 10.4.} \citep[p.~108--115]{WAISmanual}
+\end{quote}
+
+We propose that subtests or composite indexes with medium to large Standard Differences should not be used when calculating IQ, particularly for high-stakes decisions like gifted program admission.
+
+\paragraph{Cohen's Formula 10.4 (Pearson's "Standard Difference")}
+\begin{equation}
+\gamma = \frac{\bar{x}_1 - \bar{x}_2}{s_p}
+\end{equation}
+
+Cohen (1996, p. 303) refers to this as \textit{Gamma} and recommends interpreting effect sizes as follows: 0.2 (small), 0.5 (medium), 0.8 (large). These standards were followed in Pearson’s technical documentation.
+
+For individuals with reading disabilities (Dyslexics/SLD), the following WAIS-IV cognitive subtests demonstrated medium to large effect sizes:
+
+\begin{itemize}
+\item Digit Span: $g = .66$; Forward: $g = .84$; Backward: $g = .64$
+\item Vocabulary: $g = .78$
+\item Arithmetic: $g = .97$
+\item Coding: $g = .56$
+\item Letter-Number Sequencing: $g = 1.03$
+\item Figure Weights: $g = .58$
+\end{itemize}
+
+Indexes/composites with medium to large effect sizes include:
+\begin{itemize}
+\item Verbal Comprehension Index (VCI): $g = .61$
+\item Working Memory Index (WMI): $g = .90$
+\item Full Scale IQ (FSIQ): $g = .71$
+\end{itemize}
+
+\paragraph{Relevant Ethical Standards}
+According to the \textit{Standards for Educational and Psychological Testing} (2014):
+
+\begin{quote}
+\textit{It is the responsibility of those who mandate the use of tests to monitor their impact and to identify and to minimize potential negative consequences. Consequences resulting from the uses of the test, both intended and unintended, should also be examined by the test users.} \citep[Standard 13.01]{TestingStandards}
+\end{quote}
+
+Given this, we argue it is unethical and potentially unlawful to use cognitive subtests with known adverse impact for high-stakes decisions affecting protected populations. Similar considerations extend to the WISC-V for children.
+
+\paragraph{Neuroscientific Clarification}
+The current definitions and diagnostic methods for dyslexia do not reliably account for neurological architecture, behavioral phenotypes, or genetic variation \citep{Shaywitz2004, Galaburda2006, Gialluisi2019, Guidi2018, Stanovich1994}. Diagnoses based solely on aptitude-achievement discrepancy, low achievement, or Response to Intervention (RTI) are insufficient.
+
+\section*{Appendix G: Nonstandard Intelligence Score (eGIS) for Research Use Only}
+
+Given the exclusion of individuals with learning disorders from WAIS-IV normative samples \citep[p.31, Table3.1]{WAISmanual}, we introduce an alternative intelligence score: \textbf{eGIS (Estimated General Intelligence Score)}. eGIS reflects estimated intelligence for subpopulations excluded from the normative sample.
+
+\paragraph{eGIS Calculation Procedure:}
+\begin{enumerate}
+\item Estimate Vocabulary/Information scores from Similarities scaled score (Table A.1)
+\item Calculate VCI using prorated method (Table A.8)
+\item Compute GAI using Table C.1 (90% CI)
+\end{enumerate}
+
+\textbf{Note:} eGIS is used only for experimental group comparisons and is not valid for general population extrapolation. Block Design score was estimated using the average of Matrix Reasoning and Visual Puzzles.
+
+\section*{Subtest Selection Based on Cohen's Formula 10.4 to reduce the effects of non-normed population validation confound}
+
+\paragraph{WAIS-IV Subtests Used:} Similarities, Digit Span, Matrix Reasoning, Symbol Search, Visual Puzzles. Selection based on:
+\begin{itemize}
+\item Adaptability to COVID-safe protocols
+\item Minimization of adverse impact in dyslexic populations
+\item Prior factor analytic loadings on "g"
+\end{itemize}
+
+\paragraph{Effect Size Examples:}
+\begin{itemize}
+\item FSIQ difference: $d = .71$, $M_{RD} = 88.7$, $M_{C} = 97.9$, $t(34)=3.18$, $p<0.01$
+\item WMI difference: $g = .90$, $M_{RD} = 88.9$, $M_{C} = 101.1$, $t(34)=3.64$, $p<0.01$
+\item VCI difference: $g = .61$
+\item PRI: Matrix Reasoning $g = .35$, Visual Puzzles $g = .42$ (both non-significant)
+\end{itemize}
+
+\paragraph{Processing Speed Limitations:}
+Symbol Search was feasible. Coding and Cancellation could not be used. Writing interface variability introduced error. Symbol Search difference: $g = .13$, $p = 0.6$ (non-significant).
+
+\paragraph{Additional Subtests:}
+Rapid Picture Naming (from WJ-II) used due to dyslexia-related phonological retrieval deficits. WIAT-III subtests used: Pseudoword Decoding, Oral Reading Comprehension, Spelling (aligned with Dyslexia Index Scores Manual, 2018).
+
+\bibliographystyle{apa}
+\begin{thebibliography}{99}
+\bibitem{WAISmanual} Pearson. (2008). \textit{WAIS-IV Technical and Interpretive Manual}. San Antonio, TX: Pearson.
+\bibitem{TestingStandards} American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). \textit{Standards for Educational and Psychological Testing}. Washington, DC: AERA.
+\bibitem{Shaywitz2004} Shaywitz, S. (2004). \textit{Overcoming Dyslexia}. Knopf.
+\bibitem{Galaburda2006} Galaburda, A. (2006). Developmental dyslexia: A disconnection syndrome? \textit{Annals of Dyslexia}, 56(1), 5–19.
+\bibitem{Gialluisi2019} Gialluisi, C., et al. (2019). Genome-wide association scan identifies new variants associated with a cognitive predictor of dyslexia. \textit{Translational Psychiatry}, 9, 77.
+\bibitem{Guidi2018} Guidi, L., Velayos-Baeza, A., Martinez-Garay, I., et al. (2018). A genetic approach to unraveling the neurobiology of dyslexia. \textit{Molecular Neurobiology}, 55(8), 5847–5866.
+\bibitem{Stanovich1994} Stanovich, K. E., & Siegel, L. S. (1994). Phenotypic performance profile of children with reading disabilities. \textit{Journal of Educational Psychology}, 86(1), 24–53.
+\end{thebibliography}
+\end{document}

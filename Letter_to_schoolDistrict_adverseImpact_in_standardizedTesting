@@ -1,3 +1,5 @@
+% To read as PDF, go to overleaf.com and create a free account. Copy and Paste this latex code into the "code editor" and compile
+
 \documentclass{article}
 \usepackage{graphicx} % Required for inserting images
 

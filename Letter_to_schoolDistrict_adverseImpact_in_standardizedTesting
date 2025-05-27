@@ -1,0 +1,74 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Adverse Impact Letter to School District}
+\author{sinclair.7 }
+\date{May 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\section*{Request for Standardized Differences and Ethical Use of Tests in ADHD Populations}
+
+\noindent According to the \textbf{Standards for Educational and Psychological Testing} (AERA, APA, NCME, 2014):
+
+\begin{quote}
+\textit{"It is the responsibility of those who mandate the use of tests to monitor their impact and to identify and to minimize potential negative consequences. Consequences resulting from the uses of the test, both intended and unintended, should also be examined by the test users."} \hfill \textbf{[Standard 13.01]}
+\end{quote}
+
+\noindent It is both \textbf{unethical and unlawful} to use cognitive and achievement tests with \textbf{known adverse impact} for \textbf{high-stakes decisions} impacting \textbf{protected populations}, such as students with ADHD.
+
+\paragraph{Request:} Please provide the following for \textbf{each aggregated score and each subtest} of any standardized test used to qualify my child.
+
+\begin{enumerate}
+\item The \textbf{mean performance (M)} for students with ADHD and the matched control group.
+\item The \textbf{standardized mean difference (Cohen’s )} for each subtest and composite index.
+\item The interpretive description of that effect size (small, moderate, or large) as reported in the technical manual.
+\end{enumerate}
+
+\paragraph{Definition of Effect Size (Standard Difference):}
+\begin{equation}
+\gamma = \frac{\bar{x}{ADHD} - \bar{x}{Control}}{s_p}
+\end{equation}
+
+\noindent where  is the pooled standard deviation. Pearson refers to this as \textit{"Standard Difference"} and attributes the formula to \textbf{Cohen’s Formula 10.4} (Cohen, 1996, p. 303).
+
+\paragraph{Effect Size Interpretation (from WAIS-IV and Cohen, 1996):}
+\begin{itemize}
+\item \textbf{Small:}  \hfill (approx. 1/5 SD difference)
+\item \textbf{Moderate:}  \hfill (e.g., Arithmetic: )
+\item \textbf{Large:} 
+\end{itemize}
+
+\noindent Even a small effect size indicates a real population-level difference, particularly when multiple subtests compound that difference.
+
+\paragraph{Examples:}
+\begin{itemize}
+\item \textbf{Verbal Comprehension Index (VCI)} in ADHD:  \Rightarrow small effect
+\item \textbf{Arithmetic (WAIS-IV)}:  \Rightarrow moderate effect
+\end{itemize}
+
+\paragraph{Ethical and Legal Implications:}
+If a subtest shows a small, moderate, or large effect size for a protected group (e.g., ADHD), and that subtest contributes to high-stakes decisions like FSIQ, GAI, or eligibility for gifted programming, then \textbf{test users are required by law and ethics to minimize bias}. Per Standards 3.17, 9.4, and 13.01:
+
+\begin{itemize}
+\item Only the \textbf{least biased combination of subtests} should be used.
+\item If no unbiased options exist, and a child’s score lies within the error margin, \textbf{an exception should be granted based on disability status}.
+\end{itemize}
+
+\paragraph{Required Source Documents:}
+For each standardized test used, provide the specific chart and technical documentation found in the test’s manual (e.g., \textit{WISC-V Technical and Interpretive Manual, Chapter 5}) showing:
+
+\begin{enumerate}
+\item Mean scores by diagnostic group
+\item Standard differences (Cohen’s )
+\item Confidence intervals and matched sample characteristics
+\end{enumerate}
+
+\paragraph{Systemic Impact:}
+You are obligated to monitor and report whether disabled populations (e.g., students with ADHD, dyslexia) are underrepresented in gifted programs due to the use of biased criteria. If so, the school district’s practices may constitute a violation of civil rights law.
+
+\paragraph{Summary:}
+The current use of subtests with known adverse impact violates accepted standards of test validity and ethical testing practices. This adversely affects my daughter’s access to opportunities. I formally request that these practices be reviewed and that revised, compliant policies be developed. I am available to assist in policy revision or, if necessary, pursue legal action to ensure compliance in YSSD and across the State of ____.
